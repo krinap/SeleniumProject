@@ -5,7 +5,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class FrameTest {
+public class JavaScriptExcutorfile {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,6 +22,8 @@ public class FrameTest {
 		//js.executeScript(arg0, arg1)
 		js.executeScript("arguments[0].scrollIntoView(true)", link);
 		
+		
+		// learn about the concpets
 	}
 
 }
